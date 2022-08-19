@@ -1,0 +1,39 @@
+ /* *{
+    margin: 0;
+    padding: 2%;
+    background-color: paleturquoise;
+    
+}
+
+form{
+font-weight: 600;
+color: white;
+font-family: Arial, Helvetica, sans-serif;
+text-align: center;
+}
+input, select, option{
+ background-color: rgb(119, 55, 117);
+ border-radius: 50px;
+} */
+
+*{
+    margin: 0;
+    padding: 2%;
+    background-color: aqua;
+}
+form{
+    font-weight: 600;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+input, select, option{
+    background-color: rgb(119, 55, 117);
+
+    border-radius:   50px;
+
+}
+::placeholder{
+color: coral;
+}
+
